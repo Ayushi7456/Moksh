@@ -11,6 +11,14 @@
 ### Mental Health Problems
 
 <p align="center">
+  <img src="Imagess/anxiety.png" width="150"/>
+  <img src="Imagess/ANGRY.png" width="150"/> 
+  <img src="Imagess/compare.png" width="150"/>
+  <img src="Imagess/fear.png" width="150"/>
+  <img src="Imagess/ego.png" width="150"/>
+</p>
+
+<p align="center">
   <img src="Images/anxiety.png" width="150"/>
   <img src="Images/ANGRY.png" width="150"/> 
   <img src="Images/compare.png" width="150"/>
