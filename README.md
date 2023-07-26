@@ -11,11 +11,11 @@
 ### Mental Health Problems
 
 <p align="center">
-  <img src="Imagess/anxiety.png" width="150"/>
-  <img src="Imagess/ANGRY.png" width="150"/> 
-  <img src="Imagess/compare.png" width="150"/>
-  <img src="Imagess/fear.png" width="150"/>
-  <img src="Imagess/ego.png" width="150"/>
+  <img src="Images/anxiety.png" width="150"/>
+  <img src="Images/ANGRY.png" width="150"/> 
+  <img src="Images/compare.png" width="150"/>
+  <img src="Images/fear.png" width="150"/>
+  <img src="Images/ego.png" width="150"/>
 </p>
 
 There are numerous mental problems affecting the people in modern society, including fear, false egos, anxiety, comparisons, competitions, peer pressure and stressful work environment. Mental health issues can lead to physical discomforts such as headaches, stomach aches, difficulty sleeping, irritability, and inability to focus. If left unaddressed, chronic stress can exacerbate these symptoms and give rise to more severe health concerns, including anxiety, hypertension, and reduced immunity.
