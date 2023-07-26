@@ -241,7 +241,7 @@ let customFooter = document.querySelector( ".customFooter" ),
                 </span>
 
                 <div class="social flex justify-center lg:justify-centre items-center gap-x-4 mt-4">
-                  <a href="https://github.com/akshitagupta15june/Moksh">
+                  <a href="https://github.com/Ayushi7456/Moksh">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
                          class="bi bi-github text-slate-300 ease-in-out duration-300 hover:text-indigo-600"
                          viewBox="0 0 16 16">
